@@ -1,1 +1,2 @@
 # match_outcome_prediction
+Deep / Machine Learning project for Match Outcome Prediction of International Football Matches. The project consisted of utilizing multiple algorithms like Logistic Regression, SVM, KNN, Naive Bayes and Neural Network for predicting the outcome of football matches. The project was developed in python, using the libraries keras, tensorflow, scikit-learn, numpy, pandas, matplotlib, seaborn, etc.
